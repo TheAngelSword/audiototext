@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "AulaVoz",
+      "hasCanvas": false,
+      "bodyTextLen": 458,
+      "bodyTextHash": "d85f58bd0fd760d5d685336e83bff4320064b12810f565a25cf31e8f5c363c77",
+      "bodyTextPrefix": "AulaVoz Clases a texto y podcast Tus audios se quedan en este di",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "AulaVoz",
+      "hasCanvas": false,
+      "bodyTextLen": 416,
+      "bodyTextHash": "5f890502972cd62448fa23dd7cb3b3c82ce83f8e4c19581c8528d9fd653026f0",
+      "bodyTextPrefix": "AulaVoz Clases a texto y podcast Nueva clase Graba con el micróf",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
