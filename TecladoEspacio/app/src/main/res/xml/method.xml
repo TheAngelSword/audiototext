@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input-method xmlns:android="http://schemas.android.com/apk/res/android" android:settingsActivity="com.tecladoespacio.app.MainActivity" android:supportsSwitchingToNextInputMethod="true">
+    <subtype android:label="Español (México)" android:imeSubtypeLocale="es_MX" android:languageTag="es-MX" android:imeSubtypeMode="keyboard" />
+</input-method>
